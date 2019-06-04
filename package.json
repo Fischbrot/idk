@@ -1,0 +1,22 @@
+{
+  "name": "idk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fischbrot/idk.git"
+  },
+  "author": "Fischbrot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fischbrot/idk/issues"
+  },
+  "homepage": "https://github.com/Fischbrot/idk#readme",
+  "dependencies": {
+    "spotify-web": "^1.3.0"
+  }
+}
