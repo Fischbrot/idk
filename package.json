@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Fischbrot/idk#readme",
   "dependencies": {
+    "dotenv": "^8.0.0",
     "puppeteer": "^1.17.0"
   }
 }
