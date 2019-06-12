@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Fischbrot/idk#readme",
   "dependencies": {
-    "spotify-web": "^1.3.0"
+    "puppeteer": "^1.17.0"
   }
 }
